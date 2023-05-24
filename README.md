@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)
-
 <h1 align="center">Hi 👋, I'm Deepika Munimadagu</h1>
 <h3 align="center">A budding coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvz-8rd7pd0-K4ihsm5sqUjVv4NpFf7p1hmF4GlnOH6w&usqp=CAU&ec=48665701">
